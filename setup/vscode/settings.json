@@ -18,7 +18,7 @@
     "workbench.startupEditor": "none",
     "window.zoomLevel": 0,
     "editor.fontSize": 14,
-    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "workbench.iconTheme": "material-icon-theme",
     "materialTheme.cache.workbench.settings": {
         "themeColours": "Palenight",
         "accent": "Purple",
@@ -78,4 +78,6 @@
         "**/.DS_Store": true
     },
     "materialTheme.fixIconsRunning": false,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Meslo LG L for Powerline"
 }
