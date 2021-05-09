@@ -25,4 +25,15 @@ code --install-extension WakaTime.vscode-wakatime
 code --install-extension alexdima.copy-relative-path
 code --install-extension xaver.clang-format
 code --install-extension zhuangtongfa.material-theme
+code --install-extension ms-vscode.cpptools
+code --install-extension ms-python.python
+code --install-extension ms-toolsai.jupyter
+code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension ms-dotnettools.csharp
+code --install-extension James-Yu.latex-workshop
+code --install-extension ms-python.vscode-pylance
+code --install-extension eamodio.gitlens
+code --install-extension CoenraadS.bracket-pair-colorizer-2
+code --install-extension MS-vsliveshare.vsliveshare
+code --install-extension donjayamanne.githistory
 info "Installed VSCode extensions & themes..."

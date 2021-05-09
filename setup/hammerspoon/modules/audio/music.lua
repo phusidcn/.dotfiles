@@ -5,15 +5,15 @@
 local m = {}
 
 -- Display the currently playing track in Spotify
-m.spotifyWhatTrack = function()
-  hs.spotify.displayCurrentTrack()
+m.musicWhatTrack = function()
+  hs.itunes.getCurrentTrack()
 end
 
 
 -- Add triggers
 -----------------------------------------------
 m.triggers = {}
-m.triggers["Spotify What Track"] = m.spotifyWhatTrack
+m.triggers["Music What Track"] = m.musicWhatTrack
 
 ----------------------------------------------------------------------------
 return m

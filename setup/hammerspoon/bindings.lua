@@ -12,7 +12,7 @@ keys.modifiers = {
   ['position'] = {"ctrl", "alt", "cmd"},
   ['focus']    = {"ctrl", "alt"},
   ['utils']    = {"ctrl", "alt", "shift"},
-  ['apps']     = {"cmd", "ctrl", "alt", "shift"}
+  ['apps']     = {"ctrl", "shift"}
 }
 
 -- Set up hotkeys
@@ -26,17 +26,16 @@ keys.triggers = {
   ["Browser"] = { "apps", "1" },
   ["Xcode Toggle"] = { "apps", "2" },
   ["Zalo Toggle"] = { "apps", "3" },
-  ["Reveal Toggle"] = { "apps", "4" },
   ["iTerm Toggle"] = { "apps", "i" },
   ["Visual Studio Code Toggle"] = { "apps", "c" },
   ["Git Control Toggle"] = { "apps", "s" },
-  ["Spotify Toggle"] = { "apps", "m" },
+  ["Music Toggle"] = { "apps", "m" },
   ["Finder Toggle"] = { "apps", "f" },
   ["Simulator Toggle"] = { "apps", "z" },
 
   -- Audio
   -----------------------------------------------
-  ["Spotify What Track"] = { "utils", "w" },
+  ["Music What Track"] = { "utils", "w" },
 
   -- Keyboard
   -----------------------------------------------

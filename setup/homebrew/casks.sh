@@ -7,7 +7,7 @@ brew install 'visual-studio-code'
 brew install 'sourcetree'
 
 # productivity
-brew install 'alfred'
+#brew install 'alfred'
 brew install 'flux'
 #brew install 'popclip'
 brew install 'hammerspoon'
