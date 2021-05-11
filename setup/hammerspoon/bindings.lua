@@ -27,11 +27,13 @@ keys.triggers = {
   ["Xcode Toggle"] = { "apps", "2" },
   ["Zalo Toggle"] = { "apps", "3" },
   ["iTerm Toggle"] = { "apps", "i" },
+  ["Note Toggle"] = {"apps", "n"},
   ["Visual Studio Code Toggle"] = { "apps", "c" },
   ["Git Control Toggle"] = { "apps", "s" },
   ["Music Toggle"] = { "apps", "m" },
   ["Finder Toggle"] = { "apps", "f" },
   ["Simulator Toggle"] = { "apps", "z" },
+  ["Draw Toggle"] = {"apps", "d"},
 
   -- Audio
   -----------------------------------------------

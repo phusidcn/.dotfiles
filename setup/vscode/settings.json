@@ -79,5 +79,15 @@
     },
     "materialTheme.fixIconsRunning": false,
     "terminal.external.osxExec": "iTerm.app",
-    "terminal.integrated.fontFamily": "Meslo LG L for Powerline"
+    "terminal.integrated.fontFamily": "Meslo LG L for Powerline",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "latex-workshop.view.pdf.viewer": "tab",
+    "terminal.integrated.inheritEnv": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
