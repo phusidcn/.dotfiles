@@ -72,3 +72,7 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
+source /usr/local/opt/powerlevel10k/powerlevel10k.zsh-theme
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+
