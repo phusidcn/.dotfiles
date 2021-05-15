@@ -91,25 +91,25 @@ m.storeCopy = function()
 end
 
 -- Start the module
-m.start = function()
-  local copy
-  m.menubar = hs.menubar.newWithPriority(m.config.menupriority)
-  m.menubar:setTooltip(m.config.menubar.tooltip)
-  m.menubar:setTitle(m.config.menubar.title)
-  m.menubar:setMenu(m.populateMenu)
-
-  copy = hs.hotkey.bind({"cmd"}, "c", function()
-    copy:disable()
-    hs.eventtap.keyStroke({"cmd"}, "c")
-    copy:enable()
-    hs.timer.doAfter(1, m.storeCopy)
-  end)
-end
+--m.start = function()
+--  local copy
+--  m.menubar = hs.menubar.newWithPriority(m.config.menupriority)
+--  m.menubar:setTooltip(m.config.menubar.tooltip)
+--  m.menubar:setTitle(m.config.menubar.title)
+--  m.menubar:setMenu(m.populateMenu)
+--
+--  copy = hs.hotkey.bind({"cmd"}, "c", function()
+--    copy:disable()
+--    hs.eventtap.keyStroke({"cmd"}, "c")
+--    copy:enable()
+--    hs.timer.doAfter(1, m.storeCopy)
+--  end)
+--end
 
 
 -- Add triggers
 -----------------------------------------------
-m.triggers = {}
+-- m.triggers = {}
 
 
 ----------------------------------------------------------------------------

@@ -1,6 +1,6 @@
 {
     "editor.fontFamily": "'Operator Mono Lig', 'FuraCode Nerd Font', Menlo",
-    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorTheme": "One Light Pro",
     "editor.cursorStyle": "line",
     "editor.cursorBlinking": "solid",
     "editor.multiCursorModifier": "alt",
@@ -34,7 +34,7 @@
         "textLink.foreground": "#AB47BC",
         "progressBar.background": "#AB47BC",
         "pickerGroup.foreground": "#AB47BC",
-        "tab.activeBorder": "#AB47BC",
+        "tab.activeBorder": "#AB47BC"
     },
     "vim.foldfix": true,
     "vim.leader": ",",
@@ -90,4 +90,8 @@
     "terminal.integrated.inheritEnv": false,
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.preferredDarkColorTheme": "One Dark Pro",
+    "workbench.preferredLightColorTheme": "One Light Pro",
+    "window.autoDetectColorScheme": true,
+    "git.autofetch": true
 }
