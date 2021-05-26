@@ -23,9 +23,9 @@ keys.triggers = {
   -----------------------------------------------
   ["Autohide Toggle"] = { "focus", "F13" },
 
-  ["Browser"] = { "apps", "1" },
-  ["Xcode Toggle"] = { "apps", "2" },
-  ["Zalo Toggle"] = { "apps", "3" },
+  ["Browser"] = { "apps", "w" },
+  ["Xcode Toggle"] = { "apps", "x" },
+  ["Zalo Toggle"] = { "apps", "Q" },
   ["iTerm Toggle"] = { "apps", "i" },
   ["Note Toggle"] = {"apps", "n"},
   ["Visual Studio Code Toggle"] = { "apps", "c" },
