@@ -6,12 +6,12 @@ brew install 'iterm2'
 brew install 'visual-studio-code'
 brew install 'sourcetree'
 brew install 'anaconda'
-brew install 'sublime-text'
+#brew install 'sublime-text'
 brew install 'sublime-merge'
 brew install 'postman'
 
 # productivity
-brew install 'alfred'
+#brew install 'alfred'
 brew install 'flux'
 #brew install 'popclip'
 brew install 'hammerspoon'
@@ -23,7 +23,7 @@ brew install 'the-unarchiver'
 # basics
 #brew install 'dropbox'
 #brew install 'spotify'
-brew install 'evkey'
+#brew install 'evkey'
 brew install 'drawio'
 
 # fonts

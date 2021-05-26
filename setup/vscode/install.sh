@@ -25,8 +25,8 @@ code --install-extension WakaTime.vscode-wakatime
 code --install-extension alexdima.copy-relative-path
 code --install-extension xaver.clang-format
 #code --install-extension zhuangtongfa.material-theme
-code --install-extension zhuangtongfa.One-dark-pro
-code --install-extension andrewm098.onelight-pro
+code --install-extension akamud.vscode-theme-onelight
+code --install-extension akamud.vscode-theme-onedark
 code --install-extension ms-vscode.cpptools
 code --install-extension ms-python.python
 code --install-extension ms-toolsai.jupyter
@@ -38,4 +38,6 @@ code --install-extension eamodio.gitlens
 code --install-extension CoenraadS.bracket-pair-colorizer-2
 code --install-extension MS-vsliveshare.vsliveshare
 code --install-extension donjayamanne.githistory
+code --install-extension 
+code --install-extension CodeStream.codestream
 info "Installed VSCode extensions & themes..."
