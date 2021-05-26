@@ -29,9 +29,10 @@ m.triggers["Note Toggle"] = function() m.toggleApp("Simplenote") end
 m.triggers["Visual Studio Code Toggle"] = function() m.toggleApp("Visual Studio Code") end
 m.triggers["Git Control Toggle"] = function() m.toggleApp("Sublime Merge") end
 m.triggers["Music Toggle"] = function() m.toggleApp("Music") end
-m.triggers["Finder Toggle"] = function() m.toggleApp("Finder") end
+m.triggers["Finder Toggle"] = function() m.toggleApp("Path Finder") end
 m.triggers["Simulator Toggle"] = function() m.toggleApp("Simulator") end
 m.triggers["Draw Toggle"] = function() m.toggleApp("draw.io") end
+m.triggers["Enpass Toggle"] = function() m.toggleApp("Enpass") end
 
 ----------------------------------------------------------------------------
 return m

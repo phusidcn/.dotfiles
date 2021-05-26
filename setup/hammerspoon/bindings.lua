@@ -34,6 +34,7 @@ keys.triggers = {
   ["Finder Toggle"] = { "apps", "f" },
   ["Simulator Toggle"] = { "apps", "z" },
   ["Draw Toggle"] = {"apps", "d"},
+  ["Enpass Toggle"] = {"apps", "e"},
 
   -- Audio
   -----------------------------------------------
