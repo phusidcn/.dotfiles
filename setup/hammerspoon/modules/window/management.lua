@@ -126,7 +126,6 @@ m.toggleFullscreen = function()
   win:toggleFullScreen()
 end
 
-
 -----------------------------------------------
 -- Toggle maximize on the current window
 -----------------------------------------------
@@ -277,6 +276,10 @@ m.triggers["Window Quarter Top Left"]     = function() m.resize(.5,.5, 0, 0) end
 m.triggers["Window Quarter Top Right"]    = function() m.resize(.5,.5,.5, 0) end
 m.triggers["Window Quarter Bottom Right"] = function() m.resize(.5,.5, 0,.5) end
 m.triggers["Window Quarter Bottom Left"]  = function() m.resize(.5,.5,.5,.5) end
+
+--Switch windows in same app
+-- m.triggers["Switch Next Window"] = function() hs.switcher.switchNextWindow() end
+-- m.triggers["Switch previous window"] = function() hs.switcher.switchPreviousWindow() end
 
 -- Make current window larger/smaller
 m.triggers["Window Larger"]  = function() m.increment(20, true) end

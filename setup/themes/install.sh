@@ -61,4 +61,5 @@ success "Installed Terminal theme."
 info "Installing iTerm2 theme..."
 # Install the theme for iTerm
 open "$theme_dir/onedark/terminal/scheme/iterm/One Dark.itermcolors"
+open "$theme_dir/onedark/terminal/scheme/iterm/One Light.itermcolors"
 success "Installed iTerm2 theme."

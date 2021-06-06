@@ -8,7 +8,7 @@ local hsDir = hs.fs.currentDir()
 local alert = require("hs.alert").show
 local settings = require("hs.settings")
 local iconsDir = (hsDir .. '/assets/icons/weather/')
-local urlBase = 'https://query.yahooapis.com/v1/public/yql?q='
+local urlBase = 'https://www.tianqiapi.com/api/?version=v1'--'https://query.yahooapis.com/v1/public/yql?q='
 local query = 'select item.title, item.condition from weather.forecast where \
                woeid in (select woeid from geo.places(1) where text="'
 
@@ -203,7 +203,7 @@ m.init = function()
   end
 end
 
--- -- Start the module
+-- Start the module
 -- m.start = function(conf)
 --   m.app = hs.menubar.newWithPriority(m.config.menupriority)
 --   -- refresh on click
@@ -215,10 +215,10 @@ end
 -- end
 
 
--- -- Add triggers
--- -----------------------------------------------
--- m.triggers = {}
--- m.triggers["Weather Refresh"] = m.update
+-- Add triggers
+-----------------------------------------------
+m.triggers = {}
+m.triggers["Weather Refresh"] = m.update
 
 
 ----------------------------------------------------------------------------
