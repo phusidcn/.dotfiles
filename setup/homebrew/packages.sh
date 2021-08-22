@@ -35,5 +35,7 @@ brew install 'carthage'
 brew install 'chisel'
 brew install 'fastlane'
 brew install 'xcpretty'
+brew install 'watchman'
+brew install 'buck'
 
 
