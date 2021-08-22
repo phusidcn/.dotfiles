@@ -9,6 +9,8 @@ brew install 'anaconda'
 #brew install 'sublime-text'
 brew install 'sublime-merge'
 brew install 'postman'
+brew install 'jetbrains-toolbox'
+brew install 'db-browser-for-sqlite'
 
 # productivity
 #brew install 'alfred'
@@ -21,9 +23,6 @@ brew install 'simplenote'
 brew install 'the-unarchiver'
 
 # basics
-#brew install 'dropbox'
-#brew install 'spotify'
-#brew install 'evkey'
 brew install 'drawio'
 
 # fonts
