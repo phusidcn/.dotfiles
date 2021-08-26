@@ -80,12 +80,9 @@
     "materialTheme.fixIconsRunning": false,
     "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.fontFamily": "MesloLGS NF",
-    "workbench.editorAssociations": [
-        {
-            "viewType": "jupyter.notebook.ipynb",
-            "filenamePattern": "*.ipynb"
-        }
-    ],
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
     "latex-workshop.view.pdf.viewer": "tab",
     "terminal.integrated.inheritEnv": false,
     "editor.suggestSelection": "first",
