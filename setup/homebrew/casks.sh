@@ -24,6 +24,7 @@ brew install 'karabiner-elements'
 brew install 'simplenote'
 brew install 'the-unarchiver'
 brew install 'openinterminal'
+brew install 'raycast'
 
 # basics
 brew install 'drawio'
