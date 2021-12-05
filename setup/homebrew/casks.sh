@@ -4,8 +4,8 @@ brew install --cask 'homebrew/cask-versions/adoptopenjdk8'
 # devs
 brew install 'iterm2'
 brew install 'visual-studio-code'
-brew install 'sourcetree'
-brew install 'anaconda'
+# brew install 'sourcetree'
+brew install 'fork'
 #brew install 'sublime-text'
 brew install 'sublime-merge'
 brew install 'postman'
@@ -15,8 +15,8 @@ brew install 'db-browser-for-sqlite'
 # productivity
 #brew install 'alfred'
 brew install 'flux'
-brew install raycast
-brew install firefox
+brew install 'raycast'
+brew install 'firefox'
 #brew install 'popclip'
 brew install 'hammerspoon'
 brew install 'karabiner-elements'

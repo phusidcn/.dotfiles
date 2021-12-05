@@ -17,7 +17,6 @@
     "workbench.startupEditor": "none",
     "window.zoomLevel": 0,
     "editor.fontSize": 14,
-    "workbench.iconTheme": "material-icon-theme",
     "materialTheme.cache.workbench.settings": {
         "themeColours": "Palenight",
         "accent": "Purple",
@@ -91,5 +90,9 @@
     "workbench.preferredLightColorTheme": "Atom One Light",
     "window.autoDetectColorScheme": true,
     "git.autofetch": true,
-    "workbench.activityBar.visible": false
+    "workbench.activityBar.visible": false,
+    "terminal.integrated.env.osx": {
+        "FIG_NEW_SESSION": "1"
+    },
+    "workbench.iconTheme": "material-icon-theme"
 }

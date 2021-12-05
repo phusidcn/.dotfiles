@@ -21,17 +21,18 @@ keys.triggers = {
 
   -- Apps
   -----------------------------------------------
-  ["Autohide Toggle"] = { "focus", "F13" },
+  -- ["Autohide Toggle"] = { "focus", "F13" },
 
-  ["Browser"] = { "apps", "w" },
+  ["Browser 1"] = { "apps", "w" },
+  ["Browser 2"] = { "apps", "g"},
   ["Xcode Toggle"] = { "apps", "x" },
   ["Zalo Toggle"] = { "apps", "Q" },
-  ["iTerm Toggle"] = { "apps", "i" },
+  ["iTerm Toggle"] = { "apps", "t" },
   ["Note Toggle"] = {"apps", "n"},
   ["Visual Studio Code Toggle"] = { "apps", "c" },
   ["Git Control Toggle"] = { "apps", "s" },
   ["Music Toggle"] = { "apps", "m" },
-  ["Finder Toggle"] = { "apps", "f" },
+  ["Commander Toggle"] = { "apps", "f" },
   ["Simulator Toggle"] = { "apps", "z" },
   ["Draw Toggle"] = {"apps", "d"},
   ["Enpass Toggle"] = {"apps", "e"},
