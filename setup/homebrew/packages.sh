@@ -25,6 +25,8 @@ brew install 'thefuck'
 brew install 'z'
 brew install 'tldr'
 brew install 'wifi-password' # People ask you for the Wi-Fi password. Answer quickly
+brew install 'ffmpeg'
+brew install 'youtube-dl'
 
 # Devs
 brew install 'mitmproxy'
