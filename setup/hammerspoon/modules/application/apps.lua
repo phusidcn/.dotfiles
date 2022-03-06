@@ -22,7 +22,7 @@ end
 -----------------------------------------------
 m.triggers = {}
 m.triggers["Browser 1"] = function() m.toggleApp("Safari") end
-m.triggers["Browser 2"] = function() m.toggleApp("Google Chrome") end
+m.triggers["Browser 2"] = function() m.toggleApp("Firefox") end
 m.triggers["Xcode Toggle"] = function() m.toggleApp("Xcode") end
 m.triggers["Zalo Toggle"] = function() m.toggleApp("Zalo") end
 m.triggers["iTerm Toggle"] = function() m.toggleApp("iTerm") end
