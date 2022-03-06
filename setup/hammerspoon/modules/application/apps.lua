@@ -26,14 +26,14 @@ m.triggers["Browser 2"] = function() m.toggleApp("Google Chrome") end
 m.triggers["Xcode Toggle"] = function() m.toggleApp("Xcode") end
 m.triggers["Zalo Toggle"] = function() m.toggleApp("Zalo") end
 m.triggers["iTerm Toggle"] = function() m.toggleApp("iTerm") end
-m.triggers["Note Toggle"] = function() m.toggleApp("Simplenote") end
+m.triggers["Note Toggle"] = function() m.toggleApp("Notes") end
 m.triggers["Visual Studio Code Toggle"] = function() m.toggleApp("Visual Studio Code") end
 m.triggers["Git Control Toggle"] = function() m.toggleApp("Fork") end
 m.triggers["Music Toggle"] = function() m.toggleApp("Music") end
-m.triggers["Commander Toggle"] = function() m.toggleApp("Commander One") end
+m.triggers["File Manager Toggle"] = function() m.toggleApp("Forklift") end
 m.triggers["Simulator Toggle"] = function() m.toggleApp("Simulator") end
 m.triggers["Draw Toggle"] = function() m.toggleApp("draw.io") end
-m.triggers["Enpass Toggle"] = function() m.toggleApp("Enpass") end
+m.triggers["Password Manager Toggle"] = function() m.toggleApp("Dashlane") end
 
 ----------------------------------------------------------------------------
 return m

@@ -26,16 +26,16 @@ keys.triggers = {
   ["Browser 1"] = { "apps", "w" },
   ["Browser 2"] = { "apps", "g"},
   ["Xcode Toggle"] = { "apps", "x" },
-  ["Zalo Toggle"] = { "apps", "Q" },
+  ["Zalo Toggle"] = { "apps", "q" },
   ["iTerm Toggle"] = { "apps", "t" },
   ["Note Toggle"] = {"apps", "n"},
   ["Visual Studio Code Toggle"] = { "apps", "c" },
   ["Git Control Toggle"] = { "apps", "s" },
   ["Music Toggle"] = { "apps", "m" },
-  ["Commander Toggle"] = { "apps", "f" },
+  ["File Manager Toggle"] = { "apps", "f" },
   ["Simulator Toggle"] = { "apps", "z" },
   ["Draw Toggle"] = {"apps", "d"},
-  ["Enpass Toggle"] = {"apps", "e"},
+  ["Password Manager Toggle"] = {"apps", "e"},
 
   -- Audio
   -----------------------------------------------
