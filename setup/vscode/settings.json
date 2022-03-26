@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "'Operator Mono Lig', 'FuraCode Nerd Font', Menlo",
+    "editor.fontFamily": "'SF Mono', 'Operator Mono Lig', 'FuraCode Nerd Font', Menlo",
     "workbench.colorTheme": "Atom One Light",
     "editor.cursorStyle": "line",
     "editor.cursorBlinking": "solid",

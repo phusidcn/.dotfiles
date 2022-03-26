@@ -34,8 +34,10 @@ keys.triggers = {
   ["Music Toggle"] = { "apps", "m" },
   ["File Manager Toggle"] = { "apps", "f" },
   ["Simulator Toggle"] = { "apps", "z" },
-  ["Draw Toggle"] = {"apps", "d"},
   ["Password Manager Toggle"] = {"apps", "e"},
+  ["Diff Tool Toggle"] = {"apps", "d"},
+  ["Subtitles Toggle"] = {"apps", "a"},
+  ["Videos Player Toggle"] = {"apps", "v"},
 
   -- Audio
   -----------------------------------------------
