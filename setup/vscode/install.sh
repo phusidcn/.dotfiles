@@ -35,9 +35,10 @@ code --install-extension ms-dotnettools.csharp
 code --install-extension James-Yu.latex-workshop
 code --install-extension ms-python.vscode-pylance
 code --install-extension eamodio.gitlens
-code --install-extension CoenraadS.bracket-pair-colorizer-2
+# code --install-extension CoenraadS.bracket-pair-colorizer-2
 code --install-extension MS-vsliveshare.vsliveshare
 code --install-extension donjayamanne.githistory
 code --install-extension 
 code --install-extension CodeStream.codestream
+code --install-extension pkief.material-icon-theme
 info "Installed VSCode extensions & themes..."
